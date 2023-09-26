@@ -1,7 +1,7 @@
   
  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto+Condensed:wght@300;400;700&display=swap');
 
-*{
+* {
   font-family: 'Playfair Display', serif;
   font-family: 'Roboto Condensed', sans-serif;
 }
@@ -297,7 +297,6 @@
 
   .footer-widget ul li {
     display: inline-block;
-    float: left;
     width: 50%;
     margin-bottom: 12px;
   }
