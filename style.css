@@ -9,6 +9,9 @@
  .navbar {
     width: 390px;
   }
+  @media only screen and (min-width: 600px) {
+    .navbar {width: 600px;}
+  }
 }
   /* navbar section start */
   .navbar-nav a {
