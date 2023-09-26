@@ -5,9 +5,9 @@
   font-family: 'Playfair Display', serif;
   font-family: 'Roboto Condensed', sans-serif;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 600px) {
  .navbar {
-    width: 350px;
+    width: 390px;
   }
 }
   /* navbar section start */
